@@ -1,0 +1,42 @@
+Hello|Greetings|Hello, How may I help you today? 
+Hi|Greetings|Hello, How may I help you today?
+Hey|Greetings|Hello, How may I help you today?
+Good Morning|Morning|Good Morning, How may I help you today?
+Good Evening|Evening|Good Evening, How may I help you today?
+Can you suggest me some movies?|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+Please suggest some good movies|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+I need movie suggestions|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+I need movie recommendations|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+Name some good movies|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+Can you help me find a movie?|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+Can you recommend a good movie?|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+Can you help me find a suitable movie?|Questions|Sure! Are you in the mood for a specific genre, or should I recommend something popular right now?
+What are the best movies of all time?|Popular|Some of the best movies ever are The Godfather, The Shawshank Redemption, and Pulp Fiction. Would you like more recommendations?
+Popular|Popular|Some of the best movies ever are The Godfather, The Shawshank Redemption, and Pulp Fiction. Would you like more recommendations?
+Action|Genre_Action|Sure, here are a few recommendations:    1. Mad Max: Fury Road (2015)    2. Die Hard (1988)    3. The Dark Knight (2008)    4. Gladiator (2000)    5. The Matrix (1999)
+Adventure|Genre_Adventure|Sure, here are a few recommendations:    1. The Lord of the Rings: The Fellowship of the Ring (2001)    2. Indiana Jones and the Last Crusade (1989)    3. Pirates of the Caribbean: The Curse of the Black Pearl (2003)    4. Jurassic Park (1993)    5. The Goonies (1985)
+Comedy|Genre_Comedy|Sure, here are a few recommendations:    1. Monty Python and the Holy Grail (1975)    2. Groundhog Day (1993)    3. Superbad (2007)    4. The Big Lebowski (1998)    5. Airplane! (1980)
+Drama|Genre_Drama|Sure, here are a few recommendations:    1. The Shawshank Redemption (1994)    2. Forrest Gump (1994)    3. Schindler's List (1993)    4. The Godfather (1972)    5. 12 Angry Men (1957)
+Fantasy|Genre_Fantasy|Sure, here are a few recommendations:    1. The Lord of the Rings: The Return of the King (2003)    2. Harry Potter and the Sorcerer’s Stone (2001)    3. Pan’s Labyrinth (2006)    4. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)    5. The Wizard of Oz (1939)
+Horror|Genre_Horror|Sure, here are a few recommendations:    1. The Shining (1980)    2. The Exorcist (1973)    3. Hereditary (2018)    4. Get Out (2017)    5. A Nightmare on Elm Street (1984)
+Mystery|Genre_Mystery|Sure, here are a few recommendations:    1. Se7en (1995)    2. The Sixth Sense (1999)    3. Gone Girl (2014)    4. Shutter Island (2010)    5. Memento (2000)
+Romance|Genre_Romance|Sure, here are a few recommendations:    1. Titanic (1997)    2. Pride and Prejudice (2005)    3. The Notebook (2004)    4. La La Land (2016)    5. Casablanca (1942)
+Science Fiction|Genre_Scifi|Sure, here are a few recommendations:    1. Blade Runner 2049 (2017)    2. Star Wars: Episode V – The Empire Strikes Back (1980)    3. 2001: A Space Odyssey (1968    4. The Matrix (1999)    5. Inception (2010)
+Sci-Fi|Genre_Scifi|Sure, here are a few recommendations:    1. Blade Runner 2049 (2017)    2. Star Wars: Episode V – The Empire Strikes Back (1980)    3. 2001: A Space Odyssey (1968)    4. The Matrix (1999)    5. Inception (2010)
+Scifi|Genre_Scifi|Sure, here are a few recommendations:    1. Blade Runner 2049 (2017)    2. Star Wars: Episode V – The Empire Strikes Back (1980)    3. 2001: A Space Odyssey (1968)    4. The Matrix (1999)    5. Inception (2010)
+Thriller|Genre_Thriller|Sure, here are a few recommendations:    1. Psycho (1960)    2. Silence of the Lambs (1991)    3. Black Swan (2010)    4. The Girl with the Dragon Tattoo (2011)    5. No Country for Old Men (2007)
+Western|Genre_Western|Sure, here are a few recommendations:    1. The Good, the Bad and the Ugly (1966)    2. Unforgiven (1992)    3. Django Unchained (2012)    4. Once Upon a Time in the West (1968)    5. True Grit (2010)
+Musical|Genre_Musical|Sure, here are a few recommendations:    1. The Sound of Music (1965)    2. La La Land (2016)    3. West Side Story (1961)    4. Grease (1978)    5. Les Misérables (2012)
+Crime|Genre_Crime|Sure, here are a few recommendations:    1. The Godfather (1972)    2. Goodfellas (1990)    3. Pulp Fiction (1994)    4. The Departed (2006)    5. Scarface (1983)
+Documentary|Genre_Documentry|Sure, here are a few recommendations:    1. March of the Penguins (2005)    2. Won't You Be My Neighbor? (2018)    3. 13th (2016)    4. Fahrenheit 9/11 (2004)    5. Blackfish (2013)
+Animation|Genre_Animation|Sure, here are a few recommendations:    1. Toy Story (1995)    2. Spirited Away (2001)    3. The Lion King (1994)    4. Finding Nemo (2003)    5. Shrek (2001)
+Family|Genre_Family|Sure, here are a few recommendations:    1. The Lion King (1994)    2. E.T. the Extra-Terrestrial (1982)    3. Home Alone (1990)    4. Finding Nemo (2003)    5. The Incredibles (2004)
+Historical|Genre_Historical|Sure, here are a few recommendations:    1. Schindler's List (1993)    2. Braveheart (1995)    3. Gladiator (2000)    4. 12 Years a Slave (2013)    5. Lincoln (2012)
+War|Genre_War|Sure, here are a few recommendations:    1. Saving Private Ryan (1998)    2. Dunkirk (2017)    3. Apocalypse Now (1979)    4. Full Metal Jacket (1987)    5. 1917 (2019)
+Biographical|Genre_Biographical|Sure, here are a few recommendations:    1. A Beautiful Mind (2001)    2. The Social Network (2010)    3. Bohemian Rhapsody (2018)    4. Walk the Line (2005)    5. The Theory of Everything (2014)
+Sports|Genre_Sports|Sure, here are a few recommendations:    1. Rocky (1976)    2. Raging Bull (1980)    3. Moneyball (2011)    4. Remember the Titans (2000)    5. The Fighter (2010)
+Noir|Genre_Noir|Sure, here are a few recommendations:    1. Chinatown (1974)    2. Double Indemnity (1944)    3. The Maltese Falcon (1941)    4. The Big Sleep (1946)    5. Sunset Boulevard (1950)
+Superhero|Genre_Superhero|Sure, here are a few recommendations:    1. The Dark Knight (2008)    2. Avengers: Endgame (2019)    3. Spider-Man: Into the Spider-Verse (2018)    4. Iron Man (2008)    5. Logan (2017)
+Experimental|Genre_Experimental|Sure, here are a few recommendations:    1. Eraserhead (1977)    2. The Holy Mountain (1973)    3. Un Chien Andalou (1929)    4. The Tree of Life (2011)    5. Enter the Void (2009)
+Thanks for recommendation|Thanks|You are most welcome! Feel free to reach out if you need anything in the future.
+Bye|Closing|Goodbye! Feel free to reach out if you need anything in the future. Take care!
